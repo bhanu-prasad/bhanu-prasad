@@ -8,7 +8,13 @@
   <br>
 - 🏫 I'm Currently learning Backend WEB Development
   <br>
-- 📫 How to reach me email: **bhanu.prasad1908@gmail.com**
+- 📫 How to reach me email **bhanu.prasad1908@gmail.com**
+
+- 🌱 I’m currently learning **backend technologies**
+
+- 👯 I’m looking to collaborate on **front-end development**
+
+- 📫 How to reach me **bhanu.prasad1908@gmail.com**
 
 <!---
 bhanu-prasad/bhanu-prasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
