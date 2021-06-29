@@ -4,15 +4,15 @@
 - 🌱 I’m  A Front-End Web Developer
 </h2>
 <br>
-- 💞️ I’m looking to collaborate on **Front-End Development**
+<!-- - 💞️ I’m looking to collaborate on **Front-End Development**
   <br>
 - 🏫 I'm Currently learning Backend WEB Development
   <br>
-- 📫 How to reach me email **bhanu.prasad1908@gmail.com**
+- 📫 How to reach me email **bhanu.prasad1908@gmail.com** -->
 
-- 🌱 I’m currently learning **backend technologies**
+- 🌱 I'm Currently learning Backend WEB Development
 
-- 👯 I’m looking to collaborate on **front-end development**
+- 👯 I’m looking to collaborate on **Front-End Development**
 
 - 📫 How to reach me **bhanu.prasad1908@gmail.com**
 
