@@ -2,9 +2,12 @@
 <h2>
 - 👀 I’m interested in Programming <br>
 - 🌱 I’m  A Front-End Web Developer
-<h2>
+</h2>
+<br>
 - 💞️ I’m looking to collaborate on **Front-End Development**
+  <br>
 - 🏫 I'm Currently learning Backend WEB Development
+  <br>
 - 📫 How to reach me email: **bhanu.prasad1908@gmail.com**
 
 <!---
